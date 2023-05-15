@@ -1,0 +1,42 @@
+.container {
+    width: 1000px;
+    height: auto;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+a {
+    margin-top: 10px;
+    margin-bottom: 18px;
+    text-decoration: none;
+    background-color: #67A6FF;
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+    color: white;
+}
+.pic {
+    background-image: url(https://th.bing.com/th/id/R.2796c80321a0e715975aa8d70c147c60?rik=dxGJJ1dWTHrAXg&pid=ImgRaw&r=0);
+    background-size: auto;
+    width: 100%;
+    height: 500px;  
+}
+.main {
+    text-align: center;
+    padding-top: 150px;
+    
+}
+p {
+    color: white;
+    font-size: 30px;
+}
+input {
+    border-radius: 5px;
+    width: 300px;
+}
+.signup {
+    padding: 4px 10px;
+    border-radius: 2px;
+}
